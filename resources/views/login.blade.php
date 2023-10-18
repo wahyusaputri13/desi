@@ -35,7 +35,7 @@
                         </div>
                         <div>
                             <ol class="breadcrumb">
-                                <li  class="breadcrumb-item"><a href="http://127.0.0.1:8000/register">Register</a></li>
+                                <li class="breadcrumb-item"><a href="http://127.0.0.1:8000/register">Register</a></li>
                             </ol>
                         </div>
                         <div class="mb-3">
